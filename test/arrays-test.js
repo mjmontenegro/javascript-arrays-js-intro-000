@@ -67,7 +67,7 @@ describe('arrays', () => {
       const array = [1];
 
       destructivelyAddElementToEndOfArray(array, 'foo');
-
+      console.log(array);
       expect(array).to.eql([1, 'foo']);
     })
   })
