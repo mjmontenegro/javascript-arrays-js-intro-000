@@ -25,4 +25,3 @@ function removeElementFromBeginningOfArray(array) {
 function destructivelyAddElementToEndOfArray(array) {
   return array.slice(0,-1);
 }
-
