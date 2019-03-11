@@ -13,6 +13,7 @@ function addElementToEndOfArray(array, element) {
 }
 function destructivelyAddElementToEndOfArray(array, element) {
   //array.shift();
+  console.log("HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH");
   return [3,5];
 }
 function accessElementInArray(array, index) {
